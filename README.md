@@ -1,7 +1,6 @@
 # Bem-vindo(a) ao meu Repositório de Artigos!
 Meus artigos publicados no Medium ou LinkedIn
-
-
+<div> <img src="/repositorio.jpg"> </div>
 
 
 ## 📬 Entre em Contato
